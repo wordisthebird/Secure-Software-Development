@@ -30,15 +30,15 @@ namespace Secure_Software_Development
         {
             string x = EnterTextBox.Text;
 
-            StreamWriter SW = new StreamWriter(x+".txt");
+            string fileName = FileNameTextBox.Text;
 
-            SW.WriteLine("BOOOMM");
+            StreamWriter SW = new StreamWriter(fileName+".txt");
 
-
-
+            SW.WriteLine(x);
+            
             SW.Close();
 
-
+            MessageBox.Show("File Added");
         }
 
         private void Next_Click(object sender, RoutedEventArgs e)
