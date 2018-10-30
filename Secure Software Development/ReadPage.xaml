@@ -10,6 +10,9 @@
         <Label x:Name="label" Content="heheh" HorizontalAlignment="Left" Margin="210,27,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.339,-0.656"/>
         <Button x:Name="button" Content="Open File" HorizontalAlignment="Left" Margin="132,239,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
         <TextBox x:Name="Text_File_Contents" HorizontalAlignment="Left" Height="164" Margin="125,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="263"/>
+        <Button x:Name="UpdateButton" Content="Update File" HorizontalAlignment="Left" Margin="357,239,0,0" VerticalAlignment="Top" Width="75" Click="UpdateButton_Click"/>
+        <Button x:Name="deleteButton" Content="Delete File" HorizontalAlignment="Left" Margin="251,239,0,0" VerticalAlignment="Top" Width="75" Click="deleteButton_Click"/>
+        <Button x:Name="BackButton" Content="Back" HorizontalAlignment="Left" Margin="27,27,0,0" VerticalAlignment="Top" Width="75" Click="BackButton_Click"/>
 
     </Grid>
 </Window>
