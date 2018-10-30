@@ -1,1 +1,16 @@
 C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\bin\Debug\Secure Software Development.exe.config
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\bin\Debug\Secure Software Development.exe
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\bin\Debug\Secure Software Development.pdb
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\Secure Software Development.csprojResolveAssemblyReference.cache
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\MainWindow.g.cs
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\App.g.cs
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\Secure Software Development_MarkupCompile.cache
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\Secure Software Development_MarkupCompile.lref
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\MainWindow.baml
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\Secure Software Development.g.resources
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\Secure_Software_Development.Properties.Resources.resources
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\Secure Software Development.csproj.GenerateResource.Cache
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\Secure Software Development.exe
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\Secure Software Development.pdb
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\ReadPage.g.cs
+C:\Users\S00151977\Desktop\Secure Software Development\Secure Software Development\obj\Debug\ReadPage.baml
